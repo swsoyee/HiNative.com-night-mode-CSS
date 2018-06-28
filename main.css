@@ -1,3 +1,4 @@
+@-moz-document domain("hinative.com") {
 .parentbody{
     background-color: #191919 !important;
 }
@@ -26,7 +27,7 @@
     background-color: #404040 !important;
 } */
 
-.heading_main>.textarea_p span.keyword, .textarea_p {
+.heading_main>.textarea_p span.keyword, .textarea_p, .activity_wrapper .content p>b>span.keyword, .activity_wrapper .content p>b, .activity_wrapper .content p>b>span {
     color: #ffffff !important;
 }
 
@@ -55,4 +56,5 @@
 
 .list-group-item {
     background-color: #626262 !important;
+}
 }
