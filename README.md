@@ -25,3 +25,4 @@ Maybe some element is not under a appropriate modification, so I'm glad to recei
 ## 更新记录 | Update log  
 - 20180407 First released.  
 - 20180628 Fix font color in notification.
+- 20180629 Fix font color in notification setting.
